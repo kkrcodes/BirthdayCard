@@ -5,9 +5,11 @@ Android app that displays a birthday card.
 
 Pre-requisites
 --------------
-Android SDK v22
-Android Build Tools v22.0.1
-Android Support Repository v22.1.1
+<ul>
+<li>Android SDK v22</li>
+<li>Android Build Tools v22.0.1</li>
+<li>Android Support Repository v22.1.1</li> 
+</ul>
 
 Deployment
 ----------
