@@ -5,4 +5,4 @@
  
  Screenshots
  -----------
- ![Birthday Card](screenshots/BirthdayCard.jpg?s=20 "Birthday Card" ) 
+ ![Birthday Card](screenshots/BirthdayCard.jpg?v=4&s=200 "Birthday Card" ) 
