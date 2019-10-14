@@ -5,4 +5,4 @@
  
  Screenshots
  -----------
- ![Birthday Card](screenshots/BirthdayCard.jpg?raw=true "Birthday Card") {:height="36px" width="36px"}
+ ![Birthday Card](screenshots/BirthdayCard.jpg?raw=true?width=256 "Birthday Card") 
