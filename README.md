@@ -5,4 +5,4 @@
  
  Screenshots
  -----------
- ![Birthday Card](screenshots/BirthdayCard.jpg?raw=true "Birthday Card" =250x) 
+ ![Birthday Card](screenshots/BirthdayCard.jpg?raw=true =250x "Birthday Card" ) 
