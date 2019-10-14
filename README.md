@@ -5,4 +5,4 @@
  
  Screenshots
  -----------
-<img src="screenshots/BirthdayCard.jpg" width="540" height="1170" alt="Birthday Card" title="Birthday Card">
+<img src="screenshots/BirthdayCard.jpg" width="270" height="585" alt="Birthday Card" title="Birthday Card">
