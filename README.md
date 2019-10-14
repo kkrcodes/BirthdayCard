@@ -5,5 +5,4 @@
  
  Screenshots
  -----------
- ![Birthday Card](screenshots/BirthdayCard.jpg "Birthday Card")
- <img src="screenshots/BirthdayCard.jpg" width="120" height="120">
+<img src="screenshots/BirthdayCard.jpg" width="540" height="1170" alt="Birthday Card" title="Birthday Card">
