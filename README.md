@@ -5,4 +5,4 @@
  
  Screenshots
  -----------
- ![Birthday Card](screenshots/BirthdayCard.jpg?raw=true "Birthday Card" | width=256)
+ ![Birthday Card](screenshots/BirthdayCard.jpg?raw=true "Birthday Card" | height= "256" width="256")
