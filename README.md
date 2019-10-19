@@ -1,7 +1,7 @@
 # BirthdayCard
  Capstone project of <i><a href = "https://www.udacity.com/course/android-basics-user-interface--ud834" title="Udacity's Android Basics: User Interface"> Udacity's Android Basics: User Interface</a></i> course.
  
-Android app that displays a birthday card.
+ Android app that displays a birthday card.
 
 Pre-requisites
 --------------
