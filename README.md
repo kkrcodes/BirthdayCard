@@ -18,3 +18,6 @@ This app uses the Gradle build system. To build this project, use the "gradlew b
  Screenshots
  -----------
 <img src="screenshots/BirthdayCard.jpg" width="270" height="585" alt="Birthday Card" title="Birthday Card">
+
+## Attributions
+- App icon - [Freepik](https://www.flaticon.com/authors/freepik) from [Flaticon](https://www.flaticon.com)
