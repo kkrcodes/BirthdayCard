@@ -22,3 +22,8 @@ Screenshots
 Attributions
 ------------
 - App icon - [Freepik](https://www.flaticon.com/authors/freepik) from [Flaticon](https://www.flaticon.com)
+
+## License
+
+The content of this repository is licensed under a
+[GNU General Public License v3.0](LICENSE).
